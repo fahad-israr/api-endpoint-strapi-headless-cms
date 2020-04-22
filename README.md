@@ -1,3 +1,7 @@
-# Strapi application
+# Basic API Endpoints using Strapi
 
-A quick description of your strapi application
+- Clone it
+- Run `npm i`
+- Run `strapi develop` to start 
+- Endpoints at `localhost:1337:/`
+- Example `http://localhost:1337/resturants`
